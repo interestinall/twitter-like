@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails twitter-like: development" uuid="ef8bcb61-f77d-4f5f-9c2e-14f3cbb6e3a9">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails twitter-like: test" uuid="3af4c1af-f20a-43ce-aba5-7d45dc748d37">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
