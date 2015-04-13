@@ -6,10 +6,11 @@ class UsersController < ApplicationController
   end
 
   def new
+    flash[:success] = "Welcome to the Twitter-like demo rails app!"
     @user = User.new
 
     if @user.save
-      #handle successful save
+      redirect_to(@user)
     else
       render 'new'
     end
